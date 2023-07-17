@@ -8,4 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+    // 깃연결 확인하겠습니다.
 }
